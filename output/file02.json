@@ -1,0 +1,5195 @@
+{
+  "title": "Overview",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Overview",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Foundation",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Level",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Extensions",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Version",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1.0",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "International",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Software",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Testing",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Qualifications",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Board",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "International",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Software",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Board",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Copyright",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "©",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "International",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Software",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Board",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(hereinafter",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "called",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "ISTQB®).",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "International",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Software",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Board",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Revision",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "History",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Version",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Date",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Remarks",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "0.1",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "18",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "JUNE",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2013",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Initial",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "version",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "0.2",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "23",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "JULY",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2013",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "WG",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "reviewed",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "confirmed",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "0.3",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "6",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "NOV",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2013",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "amended",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "population",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "diagram",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "0.7",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "11",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "DEC",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2013",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Amended",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Business",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Outcomes",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Chapters",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "matching",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "0.8",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "20",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "DEC",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2013",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Working",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "group",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "updates",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "on",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "0.7",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "1.0",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "31",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "MAY",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2014",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "GA",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "release",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "for",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "International",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Software",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Board",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Table",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "of",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Contents",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Revision",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "History",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "..........................................................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "3",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Table",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Contents",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "........................................................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "4",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Introduction",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Extensions",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "............................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "6",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Introduction",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "...............................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "7",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.1",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Intended",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Audience",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ".....................................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "7",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.2",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Career",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Paths",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "for",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Testers",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "............................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "7",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.3",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Learning",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Objectives",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "...................................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "7",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.4",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Entry",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Requirements",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "...................................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "8",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Structure",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Course",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Duration...................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "8",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "–",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "International",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Software",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Board",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Acknowledgements",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "This",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "document",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "was",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "produced",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "by",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "a",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "team",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "from",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "International",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Software",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Board",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Working",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Group.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "team",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "thanks",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "review",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "team",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "National",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Boards",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "for",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "their",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "suggestions",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "input.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "At",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "time",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Syllabus",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "was",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "completed,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Working",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Group",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "had",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "following",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "membership:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Rex",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Black",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(Chair),",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Bertrand",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Cornanguer",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(Vice",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Chair),",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Gerry",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Coleman",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(Learning",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Objectives",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Lead),",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Debra",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Friedenberg",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(Exam",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Lead),",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Alon",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Linetzki",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(Business",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Outcomes",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Marketing",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Lead),",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Tauhida",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Parveen",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(Editor),",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Leo",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "van",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "der",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Aalst",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(Development",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Lead).",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Authors:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Rex",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Black,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Anders",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Claesson,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Gerry",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Coleman,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Bertrand",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Cornanguer,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Istvan",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Forgacs,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Alon",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Morgan,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Ninna",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Morin,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Ingvar",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Nordstrom,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Chris",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "O’Dea,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Klaus",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Olsen,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Ismo",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Paukamainen,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Nathalie",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Phung,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "International",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Software",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Board",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "1.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "to",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "the",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Foundation",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Level",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Extensions",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "This",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "overview",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "document",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "is",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "intended",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "for",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "anyone",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "with",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "an",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "interest",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "ISTQB",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Extensions",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "who",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "wants",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "a",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "high-level",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "introduction",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "leading",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "principles",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "an",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "overview",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "individual",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "extension",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "syllabi.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "From",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "time",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "time,",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "ISTQB",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "will",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "update",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "this",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "document",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "reflect",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "any",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "additional",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "extensions",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "that",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "shall",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "be",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "introduced",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "for",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Level,",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "or",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "reflect",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "major",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "changes",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "existing",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "ones.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Publications",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "updated",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "document",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "will",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "be",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "available",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "on",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "ISTQB",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "website.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "ISTQB",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Advanced",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "syllabi",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "have",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "been",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "defined",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "have",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "been",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "on",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "market",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "for",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "some",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "time.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "New",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "topics",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "emerge",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "due",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "technology",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "methodology",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "changes",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "market",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "which",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "often",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "are",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "brought",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "into",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "ISTQB",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "program",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "as",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "new",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Expert",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "syllabi.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "However,",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "not",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "all",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "topics",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "are",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "suited",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "for",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "International",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Software",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Board",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "2.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "to",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Foundation",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Level",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Agile",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Tester",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Extension",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "certification",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "for",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "is",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "designed",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "for",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "professionals",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "who",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "are",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "working",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "within",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "environments.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "It",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "is",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "also",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "for",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "professionals",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "who",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "are",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "planning",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "start",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "implementing",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "methods",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "near",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "future,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "or",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "are",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "working",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "within",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "companies",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "that",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "plan",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "do",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "so,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "certification",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "provides",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "an",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "advantage",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "for",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "those",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "who",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "would",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "like",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "know",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "required",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "activities,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "roles,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "methods,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "methodologies",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "specific",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "their",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "role.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "2.1",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Intended",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Audience",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "qualification",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "is",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "aimed",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "at",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "four",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "main",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "groups",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "professionals:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Professionals",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "who",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "have",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "achieved",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "in-depth",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "testing",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "experience",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "traditional",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "methods",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "would",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "like",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "get",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "an",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Certificate.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "would",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "like",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "know",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "more",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "about",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "tester’s",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "–",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "2.2",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Career",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Paths",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "for",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Testers",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "2.3",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Learning",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Objectives",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "International",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Software",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Board",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "That",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "said,",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "each",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "extension",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "level",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "exam",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "focuses",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "on",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "learning",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "objectives",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "defined",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "that",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "extension",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "syllabus.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "relevant",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "learning",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "objectives",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "at",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "K1,",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "K2,",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "K3",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "levels",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "are",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "provided",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "at",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "beginning",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "each",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "chapter",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "within",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "each",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "particular",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "extension",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "syllabus.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "2.4",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Entry",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Requirements",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "To",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "be",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "able",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "participate",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "a",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "exam,",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "candidates",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "must",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "have",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "obtained",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "ISTQB",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "certificate.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Structure",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Course",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Duration",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "syllabus",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "has",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "no",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "shared",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "or",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "common",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "elements",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "with",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "syllabus.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "International",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Software",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Board",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "2.6",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Keeping",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "It",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Current",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "software",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "industry",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "changes",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "rapidly.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "To",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "deal",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "with",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "these",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "changes",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "provide",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "stakeholders",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "with",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "access",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "relevant",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "current",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "information,",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "ISTQB",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "working",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "groups",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "have",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "created",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "links",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "on",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "www.istqb.org",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "web",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "site",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "which",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "refer",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "supporting",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "documents,",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "changes",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "standards",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "new",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "occurrences",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "industry.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "This",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "information",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "is",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "not",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "examinable",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "under",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "this",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "syllabus.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "International",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Software",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Board",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "3.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Overview",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "of",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "the",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Foundation",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Level",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Extension",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "–",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Agile",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Tester",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Syllabus",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "3.1",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Business",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Outcomes",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "This",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "section",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "lists",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Business",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Outcomes",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "expected",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "a",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "candidate",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "who",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "has",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "achieved",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "certification.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "–",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "3.2",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Content",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "International",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Software",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Board",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Chapter",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "2:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Fundamental",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Principles,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Practices,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Processes",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "tester",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "should",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "be",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "able",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "describe",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "differences",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "between",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "testing",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "activities",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "projects",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "non-Agile",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "projects.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "tester",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "should",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "be",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "able",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "describe",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "how",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "development",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "testing",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "activities",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "are",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "integrated",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "projects.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "tester",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "should",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "be",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "able",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "describe",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "role",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "independent",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "testing",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "projects.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "tester",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "should",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "be",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "able",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "describe",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "tools",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "techniques",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "used",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "communicate",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "status",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "testing",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "an",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "project,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "including",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "test",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "progress",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "product",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "quality.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "tester",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "should",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "be",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "able",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "describe",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "process",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "evolving",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "tests",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "across",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "multiple",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "iterations",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "explain",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "why",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "test",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "automation",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "is",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "important",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "manage",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "regression",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "risk",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "projects.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "tester",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "should",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "understand",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "skills",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "(people,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "domain,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "testing)",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "a",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "tester",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "an",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "team.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "tester",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "should",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "be",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "able",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "understand",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "role",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "a",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "tester",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "within",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "an",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "team.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Chapter",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "3:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Methods,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Techniques,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Tools",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "tester",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "should",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "be",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "able",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "recall",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "concepts",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "test-driven",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "development,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "acceptance",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "test-",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "International",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Software",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Board",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "4.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "References",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "4.1",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Trademarks",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "following",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "registered",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "trademarks",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "service",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "marks",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "are",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "used",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "this",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "document:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "ISTQB",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "is",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "a",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "registered",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "trademark",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "International",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Software",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Testing",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Board",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "4.2",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Documents",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Web",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Sites",
+      "page": 12
+    }
+  ]
+}
