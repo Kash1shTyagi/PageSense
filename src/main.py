@@ -3,9 +3,9 @@ import logging
 from pathlib import Path
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
-from util.parser import PDFParser
-from util.heading import HeadingDetector
-from util.serializer import OutlineSerializer
+from utils.parser import PDFParser
+from utils.heading import HeadingDetector
+from utils.serializer import OutlineSerializer
 
 logging.basicConfig(
     level=logging.INFO,
@@ -23,10 +23,14 @@ def process_file(pdf_path: Path, output_dir: Path) -> None:
     parser = PDFParser(pdf_path)
     blocks = parser.extract_blocks()
 
+    if not blocks:
+        logger.warning("No text blocks extracted from %s", pdf_path.name)
+        return
+
     detector = HeadingDetector(blocks)
     outline = detector.detect_headings()
 
-    title = detector.document_title or blocks[0].text[:50]
+    title = detector.document_title or (blocks[0].text[:50] if blocks else pdf_path.stem)
     serializer = OutlineSerializer(title=title, outline=outline)
     out_path = output_dir / f"{pdf_path.stem}.json"
     serializer.to_json(out_path)

@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 from pathlib import Path
-from typing import List, Tuple, Dict
+from typing import List, Dict
 
 import pdfplumber
 
@@ -10,7 +10,7 @@ class TextBlock:
     text: str
     size: float
     fontname: str
-    flags: int 
+    flags: int  # bitmask: 1 = italic, 2 = bold
     page: int
 
 
@@ -29,39 +29,49 @@ class PDFParser:
 
         with pdfplumber.open(self.pdf_path) as pdf:
             for page_index, page in enumerate(pdf.pages):
-                chars = page.chars 
+                chars = page.chars or []
 
                 lines: Dict[int, List[dict]] = {}
                 for ch in chars:
-                    line_key = int(round(ch["top"]))
+                    line_key = int(round(ch.get("top", 0)))
                     lines.setdefault(line_key, []).append(ch)
 
                 for top, char_list in sorted(lines.items()):
-                    char_list.sort(key=lambda c: c["x0"])
+                    char_list.sort(key=lambda c: c.get("x0", 0))
 
                     runs: List[List[dict]] = []
                     for ch in char_list:
-                        if not runs or (
-                            ch["size"] != runs[-1][-1]["size"]
-                            or ch["fontname"] != runs[-1][-1]["fontname"]
+                        if (
+                            not runs
+                            or round(ch.get("size", 0), 3) != round(runs[-1][-1].get("size", 0), 3)
+                            or ch.get("fontname", "") != runs[-1][-1].get("fontname", "")
                         ):
                             runs.append([ch])
                         else:
                             runs[-1].append(ch)
 
                     for run in runs:
-                        text = "".join([c["text"] for c in run]).strip()
+                        text = "".join([c.get("text", "") for c in run]).strip()
                         if not text:
                             continue
+
+                        fontname = run[0].get("fontname", "") or ""
+                        size = float(run[0].get("size", 0.0))
+
+                        fname_lower = fontname.lower()
+                        italic = any(token in fname_lower for token in ("italic", "oblique", "it"))
+                        bold = "bold" in fname_lower or "bd" in fname_lower or "demibold" in fname_lower
+
+                        flags = (1 if italic else 0) | (2 if bold else 0)
+
                         blocks.append(
                             TextBlock(
                                 text=text,
-                                size=run[0]["size"],
-                                fontname=run[0]["fontname"],
-                                flags=0,
+                                size=size,
+                                fontname=fontname,
+                                flags=flags,
                                 page=page_index + 1,
                             )
                         )
 
         return blocks
-

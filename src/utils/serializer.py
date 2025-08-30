@@ -9,11 +9,12 @@ class OutlineSerializer:
     """
 
     def __init__(self, title: str, outline: List[Dict[str, object]]):
-        self.title = title
-        self.outline = outline
+        self.title = title or ""
+        self.outline = outline or []
 
     def to_json(self, out_path: Path) -> None:
         payload = {"title": self.title, "outline": self.outline}
         out_path = out_path.with_suffix(".json")
+        out_path.parent.mkdir(parents=True, exist_ok=True)
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(payload, f, ensure_ascii=False, indent=2)
