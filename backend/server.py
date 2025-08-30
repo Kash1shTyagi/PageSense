@@ -7,9 +7,9 @@ import shutil
 import logging
 from typing import Optional
 
-from backend.utils.parser import PDFParser
-from backend.utils.heading import HeadingDetector
-from backend.utils.serializer import OutlineSerializer
+from utils.parser import PDFParser
+from utils.heading import HeadingDetector
+from utils.serializer import OutlineSerializer
 
 app = FastAPI(title="PageSense Outline Service")
 
